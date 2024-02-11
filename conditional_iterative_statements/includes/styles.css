@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #b381b3;
+}
+
+/*Letter grade styles*/
+.grade-A{
+    color: green;
+    font-weight: bold;
+}
+.grade-B{
+    color: blue;
+    font-weight: bold;
+}
+.grade-C{
+    color: orange;  /*making this yellow renders the letter grade illegible against the yellow background.*/
+    font-weight: bold;
+}
+.grade-D{
+    color: black;
+    font-weight: bold;
+}
+.grade-F{
+    color: red;
+    font-weight: bold;
+}

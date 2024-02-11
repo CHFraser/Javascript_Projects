@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #b381b3;
+}
+
+#sampleTable {
+    background-color: #b381b3;
+    color: #fff;
+    border-color: white;
+}
+
+.rim{
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #b381b3;
+}
+
+#myButton{
+    background-color: #b381b3;
+    color: #fff;
+    transition: .4s;
+}
+
+#myButton:hover{
+    background-color: #805c80;
+    width: 110px;
+}

@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #b381b3;
+}
+.bold {
+    font-weight: bold;
+}
+
+.rim{
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #b381b3;
+}
